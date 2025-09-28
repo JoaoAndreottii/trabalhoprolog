@@ -1,4 +1,4 @@
-
+%https://swish.swi-prolog.org/p/trabalhooo.pl%
 :- dynamic resposta/2.
 
 trilha(inteligencia_artificial, 'Construção de sistemas inteligentes capazes de aprender e tomar decisões.').
