@@ -1,6 +1,5 @@
 # 🎓 Sistema Especialista para Recomendação de Trilha Acadêmica
 
-**Instituição:** [Nome da Instituição]  
 **Disciplina:** [Programação Logica e Funcional]  
 **Professor:** [FRANK COELHO DE ALCANTARA]  
 **Aluno:** [João Andreotti]  
